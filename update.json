@@ -1,9 +1,9 @@
 {
-  "forceUpdate": true,
+  "forceUpdate": false,
   "appEnabled": true,
   "version": "2.0",
   "versionCode": 2,
-  "title": "RABBIT RANA Update",
-  "message": "নতুন ভার্সন available!",
+  "title": "RABBIT RANA SERVER CLOSED",
+  "message": "তোমার আইডি যদি ব্যান হয়, তার জন্য দায়ী থাকবে তুমি নিজেই।",
   "downloadUrl": "t.me/MythAdmin"
 }
